@@ -14,3 +14,5 @@ Un número primo es un número que solo es divisible por sí mismo y por 1. Ento
 # Cuarto punto: 
 Con este punto pensé en un for, que comenzara en el segundo elemento de la lista de números y que fuera sumando ese número con el anterior y pusiera esto en una lista nueva, y luego ver cuál suma es la mayor con la función max().
 ***
+# Quinto punto
+Con este punto use dos for aninados, uno para que recorriera cada palabra en la lista, y el otro para que comparara la longitud de esa palabra con la longitud de las otras palabras en la lista. Tambien creo otra lista nueva y uso .append para añadir las palabras que tengan las misma longitud. 
