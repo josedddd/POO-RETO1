@@ -7,5 +7,5 @@ Es simplemente un if y dependiendo del operador hace tal operacion, pero como nu
 ***
 
 Segundo punto:
-Con este punto 
+Con este punto, hago que la palabra sea una lista, y con un for (no con slicing) la recorro al revez (usando un rango decreciente), creando otra lista con la palabra al revez y comparando ambas para ver si es un palindrome
 
