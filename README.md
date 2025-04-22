@@ -7,7 +7,7 @@ Es simplemente un if y dependiendo del operador (el string) hace tal operacion, 
 ***
 
 Segundo punto:
-Con este punto, hago que la palabra se convierta en una lista de caracteres, y con un for (no con slicing) la recorro al revez (usando un rango decreciente), al mismo tiempo (usando list comprehension) creo otra lista con la palabra al revez y comparo ambas para ver si es un palindrome
+Con este punto, hago que la palabra se convierta en una lista de caracteres, y con un for (no con slicing) la recorro al revez (usando un rango decreciente). Usando list comprehension uso ese for para crear otra lista con la palabra al revez y comparo ambas para ver si es un palindrome
 
 ***
 Tercer punto
