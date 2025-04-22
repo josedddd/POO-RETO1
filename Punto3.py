@@ -5,4 +5,3 @@ def prime(list_num: list):
               if all(remainders):  #Si todos los restos son diferentes de cero, el numero es primo y lo imprimo
                      print(f"{num}")
 
-prime([3,6,29,57,13,17,19,23,25,27])   
