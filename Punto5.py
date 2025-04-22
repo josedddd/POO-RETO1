@@ -1,7 +1,7 @@
 #Punto 5
 def equal(list_word: list):
     list_equal_length = []
-    # Recorro la lista de palabras
+    # Con el primer for recorro la lista de palabras, con el otro comparo esa palabra con todas las demas
     for i in range(0,len(list_word)):
         for j in range(i+1,len(list_word)):
         # Compruebo si las palabras tienen la misma longitud
